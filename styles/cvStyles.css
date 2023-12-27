@@ -30,7 +30,7 @@ a {
   height: 30px;
   width: 30px;
 }
-#image-container {
+#image-profile {
   height: 150px;
   width: 120px;
 }
@@ -90,15 +90,16 @@ main {
   margin: 10px;
   border-radius: 25px;
 }
-p {
+.profile-description{
   font-size: 15px;
   color: black;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
+
 h2{
-  background-color: rgb(207, 186, 154);
-    color: black;
+  background-color: rgb(123, 179, 216);
+    color: rgb(7, 56, 71);
   font-style: italic;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
 }
