@@ -98,10 +98,13 @@ main {
 }
 
 h2{
+  padding: 10px;
+  border-radius: 10px;
   background-color: rgb(123, 179, 216);
     color: rgb(7, 56, 71);
   font-style: italic;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 h4 {
   color: black;
